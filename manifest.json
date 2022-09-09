@@ -1,0 +1,21 @@
+{
+  "name": "Cotation Space",
+  "description": "A Simple Google Chrome extension by Cotation",
+  "version": "0.1",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "16": "resources/images/Co16.png",
+    "48": "resources/images/Co48.png",
+    "128": "resources/images/Co128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "resources/images/Co16.png",
+      "48": "resources/images/Co48.png",
+      "128": "resources/images/Co128.png"
+    }
+  }
+}
